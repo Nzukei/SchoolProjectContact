@@ -1,0 +1,15 @@
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/bin/Debug/net7.0/SchoolProject
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/bin/Debug/net7.0/SchoolProject.deps.json
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/bin/Debug/net7.0/SchoolProject.runtimeconfig.json
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/bin/Debug/net7.0/SchoolProject.dll
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/bin/Debug/net7.0/SchoolProject.pdb
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/SchoolProject.csproj.AssemblyReference.cache
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/SchoolProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/SchoolProject.AssemblyInfoInputs.cache
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/SchoolProject.AssemblyInfo.cs
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/SchoolProject.csproj.CoreCompileInputs.cache
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/SchoolProject.dll
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/refint/SchoolProject.dll
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/SchoolProject.pdb
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/SchoolProject.genruntimeconfig.cache
+/Users/nzukei/RiderProjects/SchoolProject/SchoolProject/obj/Debug/net7.0/ref/SchoolProject.dll
